@@ -16,8 +16,15 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 ## Frameworks
 
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
-- [Sinabs](https://www.synsense.ai/products/sinabs/) - open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
+- [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
+- [LAVA](https://github.com/lava-nc) - software Framework for Neuromorphic Computing from Intel.
+- [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
+- [NetPyNE]() - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
+- [NEURON](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
 - [Norse](https://norse.github.io/norse/index.html) -  aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components.
+- [PeleNet](https://github.com/sagacitysite/pelenet) - reservoir computing framework for Loihi.
+- [Sinabs](https://www.synsense.ai/products/sinabs/) - open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
+- [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
 
 
 # Robotic toolkits
