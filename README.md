@@ -44,7 +44,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 
 AltAI NPU developers.
 
-[motivnt.ru](https://motivnt.ru/) - official site.
+- [motivnt.ru](https://motivnt.ru/) - official site.
 
 
 ### The Neuromorphic Vision and Natural Computation team
