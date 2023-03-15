@@ -9,12 +9,15 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
     - [Motiv NT](#motiv-nt).
     - [The Neuromorphic Vision and Natural Computation team](#the-neuromorphic-vision-and-natural-computation-team).
     - [Brainchip](#brainchip).
+    - [SynSense](#synsense).
   * [Hardware](#hardware).
 
 
 ## Frameworks
 
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
+- [Sinabs](https://www.synsense.ai/products/sinabs/) - open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
+- [Norse](https://norse.github.io/norse/index.html) -  aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components.
 
 
 # Robotic toolkits
@@ -44,6 +47,13 @@ Team, based at the Institut de la Vision in Paris.
 Akida NPU developers.
 
 - [brainchip.com](https://brainchip.com/) - official site.
+
+
+### SynSense
+
+SynSense focuses on the commercialization of neuromorphic intelligence, based on 20+ years of world-leading experience of University of Zürich and ETH Zürich.
+
+- [www.synsense.ai](https://www.synsense.ai/) - official site.
 
 
 ## Hardware
