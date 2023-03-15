@@ -27,7 +27,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
 
 
-# Robotic toolkits
+## Robotic toolkits
 
 - [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
