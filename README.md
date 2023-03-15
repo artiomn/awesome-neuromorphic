@@ -3,8 +3,9 @@
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
 - [Awesome Neuromorphic](#awesome-neuromorphic)
-  * [Frameworks](#frameworks)
+  * [Spiking frameworks](#spiking-frameworks)
   * [Robotic toolkits](#robotic-toolkits)
+  * [Other computational neuroscience software](other-computational-neuroscience-software)
   * [Institutes and groups](#institutes-and-groups)
     - [Motiv NT](#motiv-nt).
     - [The Neuromorphic Vision and Natural Computation team](#the-neuromorphic-vision-and-natural-computation-team).
@@ -13,7 +14,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
   * [Hardware](#hardware).
 
 
-## Frameworks
+## Spiking frameworks
 
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
@@ -30,12 +31,17 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [PySNN](https://github.com/BasBuller/PySNN) - spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
 - [Sinabs](https://www.synsense.ai/products/sinabs/) - open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
+- [spikeflow](https://github.com/colinator/spikeflow) - spiking neural networks in tensorflow. [retired]
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-
 
 ## Robotic toolkits
 
 - [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
+
+
+## Other computational neuroscience software
+
+- [BrainPy](https://github.com/brainpy/BrainPy) - framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
 
 
 ## Institutes and groups
