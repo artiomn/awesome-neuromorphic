@@ -1,4 +1,4 @@
-# Awesome Neromorphic
+# Awesome Neuromorphic
 
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
