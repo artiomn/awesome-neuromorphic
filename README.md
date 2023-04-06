@@ -33,6 +33,8 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
 - [spikeflow](https://github.com/colinator/spikeflow) - spiking neural networks in tensorflow. [retired]
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+- [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP)..
+
 
 ## Robotic toolkits
 
