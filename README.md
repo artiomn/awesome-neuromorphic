@@ -17,15 +17,16 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 ## Spiking frameworks
 
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
+- [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 - [LAVA](https://github.com/lava-nc) - software Framework for Neuromorphic Computing from Intel.
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
-- [NetPyNE]() - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
-- [NEURON](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
 - [NEST](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
-- [Norse](https://norse.github.io/norse/index.html) -  aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands PyTorch with primitives for bio-inspired neural components.
+- [NetPyNE]() - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
+- [Neural Circuit Policies](https://github.com/mlech26l/ncps) - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
+- [NEURON](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
 - [PeleNet](https://github.com/sagacitysite/pelenet) - reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
 - [PySNN](https://github.com/BasBuller/PySNN) - spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
@@ -80,6 +81,7 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 ## Hardware
 
 - [Motiv AltAI](https://motivnt.ru/neurochip-altai/).
-- [End-to-End_Implementation_of_Various_Hybrid_Neural_Networks_on_a_Cross-Paradigm_Neuromorphic_Chip](https://www.researchgate.net/publication/348962820).
+- [End-to-End Implementation of Various Hybrid Neural Networks on a Cross-Paradigm Neuromorphic Chip](https://www.researchgate.net/publication/348962820).
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/).
 - [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html).
+- [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA).
