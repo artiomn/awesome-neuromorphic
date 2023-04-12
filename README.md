@@ -12,6 +12,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
     - [Brainchip](#brainchip).
     - [SynSense](#synsense).
   * [Hardware](#hardware).
+  * [Other](#other).
 
 
 ## Spiking frameworks
@@ -85,3 +86,8 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/).
 - [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html).
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA).
+
+
+## Other
+
+- [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science).
