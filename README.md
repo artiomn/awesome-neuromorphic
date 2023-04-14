@@ -3,7 +3,7 @@
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
 - [Awesome Neuromorphic](#awesome-neuromorphic)
-  * [Spiking frameworks](#spiking-frameworks)
+  * [Spiking frameworks](#spiking-and-neuromorphic-frameworks)
   * [Robotic toolkits](#robotic-toolkits)
   * [Other computational neuroscience software](other-computational-neuroscience-software)
   * [Institutes and groups](#institutes-and-groups)
@@ -15,7 +15,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
   * [Other](#other).
 
 
-## Spiking frameworks
+## Spiking and neuromorphic frameworks
 
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
