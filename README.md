@@ -3,7 +3,7 @@
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
 - [Awesome Neuromorphic](#awesome-neuromorphic)
-  * [Spiking frameworks](#spiking-and-neuromorphic-frameworks)
+  * [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
   * [Robotic toolkits](#robotic-toolkits)
   * [Other computational neuroscience software](other-computational-neuroscience-software)
   * [Institutes and groups](#institutes-and-groups)
