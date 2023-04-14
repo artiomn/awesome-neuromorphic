@@ -82,6 +82,7 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 ## Hardware
 
 - [Motiv AltAI](https://motivnt.ru/neurochip-altai/).
+- [Asprinity AML100](https://www.aspinity.com/aml100) - Analog machine learning chips for the lowest always-on system power.
 - [End-to-End Implementation of Various Hybrid Neural Networks on a Cross-Paradigm Neuromorphic Chip](https://www.researchgate.net/publication/348962820).
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/).
 - [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html).
