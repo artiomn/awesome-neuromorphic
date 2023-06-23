@@ -92,3 +92,4 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 ## Other
 
 - [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science).
+- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) - big articles list.
