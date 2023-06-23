@@ -14,7 +14,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [ANN2SNN Converters](#ann2snn-converters)
 - [Robotic Toolkits](#robotic-toolkits)
 - [Datasets and Dataset Tools](#datasets-and-dataset-tools)
-- [Computational Neuroscience Software](computational-neuroscience-software)
+- [Computational Neuroscience Software](#computational-neuroscience-software)
 - [Institutes and Groups](#institutes-and-groups)
   - [Motiv NT](#motiv-nt).
   - [The Neuromorphic Vision and Natural Computation Team](#the-neuromorphic-vision-and-natural-computation-team).
