@@ -8,6 +8,8 @@
 
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
+## Contents
+
 - [Awesome Neuromorphic](#awesome-neuromorphic)
   - [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
   - [ANN2SNN converters](#ann2snn-converters)
