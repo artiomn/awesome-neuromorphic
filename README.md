@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
  <a href="https://awesome.re">
   <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
  </a>
@@ -30,13 +30,13 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
-- [LAVA Framework](https://github.com/lava-nc) - software Framework for Neuromorphic Computing from Intel.
+- [Intel Lava Framework](https://github.com/lava-nc) - software Framework for Neuromorphic Computing from Intel.
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
-- [NEST](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
+- [Nest](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 - [NetPyNE](http://www.netpyne.org/) - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
 - [Neural Circuit Policies](https://github.com/mlech26l/ncps) - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-- [NEURON Framework](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
+- [Neuron Framework](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
 - [PeleNet](https://github.com/sagacitysite/pelenet) - reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
 - [PySNN](https://github.com/BasBuller/PySNN) - spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
