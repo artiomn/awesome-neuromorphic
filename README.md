@@ -30,21 +30,21 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
-- [Intel Lava Framework](https://github.com/lava-nc) - software Framework for Neuromorphic Computing from Intel.
+- [Intel LAVA](https://github.com/lava-nc) - Software Framework for Neuromorphic Computing from Intel.
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
 - [Nest](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 - [NetPyNE](http://www.netpyne.org/) - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
 - [Neural Circuit Policies](https://github.com/mlech26l/ncps) - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-- [Neuron Framework](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
-- [PeleNet](https://github.com/sagacitysite/pelenet) - reservoir computing framework for Loihi.
+- [NEURON](https://www.neuron.yale.edu/neuron/) - The NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
+- [PeleNet](https://github.com/sagacitysite/pelenet) - Reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
-- [PySNN](https://github.com/BasBuller/PySNN) - spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
-- [Sinabs](https://www.synsense.ai/products/sinabs/) - open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
-- [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
-- [spikeflow](https://github.com/colinator/spikeflow) - spiking neural networks in tensorflow. [retired]
-- [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-- [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP).
+- [PySNN](https://github.com/BasBuller/PySNN) - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
+- [Sinabs](https://www.synsense.ai/products/sinabs/) - Open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
+- [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - Spike-based artificial intelligence computing platform.
+- [spikeflow](https://github.com/colinator/spikeflow) - Spiking neural networks in tensorflow.
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+- [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - Part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP).
 
 
 ## ANN2SNN Converters
@@ -64,7 +64,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 
 ## Computational Neuroscience Software
 
-- [BrainPy](https://github.com/brainpy/BrainPy) - framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
+- [BrainPy](https://github.com/brainpy/BrainPy) - Framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
 
 
 ## Institutes and Groups
@@ -73,29 +73,29 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 
 AltAI NPU developers.
 
-- [motivnt.ru](https://motivnt.ru/) - official site.
+- [motivnt.ru](https://motivnt.ru/) - Official site.
 
 
 ### The Neuromorphic Vision and Natural Computation Team
 
 Team, based at the Institut de la Vision in Paris.
 
-- [www.neuromorphic-vision.com](https://www.neuromorphic-vision.com/) - official site.
-- [GitHub repository](https://github.com/neuromorphic-paris) - projects code.
+- [www.neuromorphic-vision.com](https://www.neuromorphic-vision.com/) - Official site.
+- [GitHub repository](https://github.com/neuromorphic-paris) - Projects code.
 
 
 ### Brainchip
 
 Akida NPU developers.
 
-- [brainchip.com](https://brainchip.com/) - official site.
+- [brainchip.com](https://brainchip.com/) - Official site.
 
 
 ### SynSense
 
 SynSense focuses on the commercialization of neuromorphic intelligence, based on 20+ years of world-leading experience of University of Zürich and ETH Zürich.
 
-- [www.synsense.ai](https://www.synsense.ai/) - official site.
+- [www.synsense.ai](https://www.synsense.ai/) - Official site.
 
 
 ## Hardware
