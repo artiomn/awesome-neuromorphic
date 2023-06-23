@@ -1,6 +1,8 @@
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-	</a>
+<div align="center">
+ <a href="https://awesome.re">
+  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+ </a>
+</div>
 
 # Awesome Neuromorphic
 
