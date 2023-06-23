@@ -10,21 +10,21 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 
 ## Contents
 
-- [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
-- [ANN2SNN converters](#ann2snn-converters)
-- [Robotic toolkits](#robotic-toolkits)
+- [Spiking and Neuromorphic Frameworks](#spiking-and-neuromorphic-frameworks)
+- [ANN2SNN Converters](#ann2snn-converters)
+- [Robotic Toolkits](#robotic-toolkits)
 - [Datasets and dataset tools](#datasets-and-dataset-tools)
-- [Other computational neuroscience software](other-computational-neuroscience-software)
-- [Institutes and groups](#institutes-and-groups)
+- [Computational Neuroscience Software](computational-neuroscience-software)
+- [Institutes and Groups](#institutes-and-groups)
   - [Motiv NT](#motiv-nt).
-  - [The Neuromorphic Vision and Natural Computation team](#the-neuromorphic-vision-and-natural-computation-team).
+  - [The Neuromorphic Vision and Natural Computation Team](#the-neuromorphic-vision-and-natural-computation-team).
   - [Brainchip](#brainchip).
   - [SynSense](#synsense).
 - [Hardware](#hardware).
 - [Other](#other).
 
 
-## Spiking and neuromorphic frameworks
+## Spiking and Neuromorphic Frameworks
 
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
@@ -52,22 +52,22 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [snn_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.
 
 
-## Robotic toolkits
+## Robotic Toolkits
 
 - [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 
-## Datasets and dataset tools
+## Datasets and Dataset Tools
 
 - [Tonic](https://github.com/BrainCog-X/tonic_braincog) - Tonic is a tool to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data. 
 
 
-## Other computational neuroscience software
+## Computational Neuroscience Software
 
 - [BrainPy](https://github.com/brainpy/BrainPy) - framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
 
 
-## Institutes and groups
+## Institutes and Groups
 
 ### Motiv NT
 
@@ -76,7 +76,7 @@ AltAI NPU developers.
 - [motivnt.ru](https://motivnt.ru/) - official site.
 
 
-### The Neuromorphic Vision and Natural Computation team
+### The Neuromorphic Vision and Natural Computation Team
 
 Team, based at the Institut de la Vision in Paris.
 
