@@ -21,7 +21,6 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
   - [Brainchip](#brainchip).
   - [SynSense](#synsense).
 - [Hardware](#hardware).
-- [Other](#other).
 
 
 ## Spiking and Neuromorphic Frameworks
@@ -108,7 +107,7 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
 
 
-## Other
+## Footnotes
 
 - [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) - Computational Neuro Science repository.
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) - Big articles list.
