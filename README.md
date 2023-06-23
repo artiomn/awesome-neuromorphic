@@ -2,19 +2,19 @@
 
 A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
- - [Awesome Neuromorphic](#awesome-neuromorphic)
-   - [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
-   - [ANN2SNN converters](#ann2snn-converters)
-   - [Robotic toolkits](#robotic-toolkits)
-   - [Datasets and dataset tools](#datasets-and-dataset-tools)
-   - [Other computational neuroscience software](other-computational-neuroscience-software)
-   - [Institutes and groups](#institutes-and-groups)
-     - [Motiv NT](#motiv-nt).
-     - [The Neuromorphic Vision and Natural Computation team](#the-neuromorphic-vision-and-natural-computation-team).
-     - [Brainchip](#brainchip).
-     - [SynSense](#synsense).
-   - [Hardware](#hardware).
-   - [Other](#other).
+- [Awesome Neuromorphic](#awesome-neuromorphic)
+  - [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
+  - [ANN2SNN converters](#ann2snn-converters)
+  - [Robotic toolkits](#robotic-toolkits)
+  - [Datasets and dataset tools](#datasets-and-dataset-tools)
+  - [Other computational neuroscience software](other-computational-neuroscience-software)
+  - [Institutes and groups](#institutes-and-groups)
+    - [Motiv NT](#motiv-nt).
+    - [The Neuromorphic Vision and Natural Computation team](#the-neuromorphic-vision-and-natural-computation-team).
+    - [Brainchip](#brainchip).
+    - [SynSense](#synsense).
+  - [Hardware](#hardware).
+  - [Other](#other).
 
 
 ## Spiking and neuromorphic frameworks
