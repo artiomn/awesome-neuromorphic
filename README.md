@@ -6,7 +6,7 @@
 
 # Awesome Neuromorphic
 
-A curated list of awesome neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
+A curated list of awesome spiking or neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
 ## Contents
 
