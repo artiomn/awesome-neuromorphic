@@ -4,7 +4,9 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 
 - [Awesome Neuromorphic](#awesome-neuromorphic)
   * [Spiking and neuromorphic frameworks](#spiking-and-neuromorphic-frameworks)
+  * [ANN2SNN converters](#ann2snn-converters)
   * [Robotic toolkits](#robotic-toolkits)
+  * [Datasets and dataset tools](#datasets-and-dataset-tools)
   * [Other computational neuroscience software](other-computational-neuroscience-software)
   * [Institutes and groups](#institutes-and-groups)
     - [Motiv NT](#motiv-nt).
@@ -38,7 +40,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP).
 
 
-### ANN2SNN
+## ANN2SNN Converters
 
 - [snn_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.
 
@@ -46,6 +48,12 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 ## Robotic toolkits
 
 - [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
+
+
+## Datasets and dataset tools
+
+- [Tonic](https://github.com/BrainCog-X/tonic_braincog) - Tonic is a tool to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data.
+- 
 
 
 ## Other computational neuroscience software
