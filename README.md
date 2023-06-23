@@ -1,10 +1,4 @@
-<div align="left">
- <a href="https://awesome.re">
-  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
- </a>
-</div>
-
-# Awesome Neuromorphic
+# Awesome Neuromorphic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome spiking or neuromorphic frameworks, libraries, resources, and other things (i.e. useful robotics simulators and frameworks).
 
