@@ -25,7 +25,7 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
 - [NEST](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
-- [NetPyNE]() - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
+- [NetPyNE](http://www.netpyne.org/) - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
 - [Neural Circuit Policies](https://github.com/mlech26l/ncps) - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
 - [NEURON](https://www.neuron.yale.edu/neuron/) - the NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
 - [PeleNet](https://github.com/sagacitysite/pelenet) - reservoir computing framework for Loihi.
@@ -35,7 +35,12 @@ A curated list of awesome neuromorphic frameworks, libraries, resources, and oth
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - spike-based artificial intelligence computing platform. [Python]
 - [spikeflow](https://github.com/colinator/spikeflow) - spiking neural networks in tensorflow. [retired]
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-- [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP)..
+- [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP).
+
+
+### ANN2SNN
+
+- [snn_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.
 
 
 ## Robotic toolkits
