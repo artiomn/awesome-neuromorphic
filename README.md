@@ -81,7 +81,7 @@ AltAI NPU developers.
 Team, based at the Institut de la Vision in Paris.
 
 - [www.neuromorphic-vision.com](https://www.neuromorphic-vision.com/) - official site.
-- [Github repository](https://github.com/neuromorphic-paris).
+- [GitHub repository](https://github.com/neuromorphic-paris) - projects code.
 
 
 ### Brainchip
@@ -100,15 +100,15 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Hardware
 
-- [Motiv AltAI](https://motivnt.ru/neurochip-altai/).
+- [Motiv AltAI](https://motivnt.ru/neurochip-altai/) - AltAI NPU description page.
 - [Asprinity AML100](https://www.aspinity.com/aml100) - Analog machine learning chips for the lowest always-on system power.
-- [End-to-End Implementation of Various Hybrid Neural Networks on a Cross-Paradigm Neuromorphic Chip](https://www.researchgate.net/publication/348962820).
-- [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/).
-- [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html).
-- [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA).
+- [End-to-End Implementation of Various Hybrid Neural Networks on a Cross-Paradigm Neuromorphic Chip](https://www.researchgate.net/publication/348962820) - Paper.
+- [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/) - Akida NPU.
+- [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU.
+- [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
 
 
 ## Other
 
-- [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science).
-- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) - big articles list.
+- [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) - Computational Neuro Science repository.
+- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) - Big articles list.
