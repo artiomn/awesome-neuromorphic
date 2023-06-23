@@ -2,11 +2,11 @@
 
 ## Adding an awesome list
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+Please ensure your pull request adheres to the [list guidelines](https://github.com/sindresorhus/awesome/edit/main/pull_request_template.md).
 
 ## Creating your own awesome list
 
-To create your own list, check out the [instructions](create-list.md).
+To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/edit/main/create-list.md).
 
 ## Adding something to an awesome list
 
