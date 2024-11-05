@@ -24,6 +24,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 - [Intel LAVA](https://github.com/lava-nc) - Software Framework for Neuromorphic Computing from Intel.
+- [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) - **coming soon**. The Kaspersky Neuromorphic Platform ("KNP" or "platform") is a software platform for developing, training and executing spiking neural networks on a variety of computers.
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
 - [Nest](https://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
