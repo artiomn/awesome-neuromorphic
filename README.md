@@ -14,6 +14,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
   - [The Neuromorphic Vision and Natural Computation Team](#the-neuromorphic-vision-and-natural-computation-team).
   - [Brainchip](#brainchip).
   - [SynSense](#synsense).
+  - [Open Neuromorphic](#open-neuromorphic).
 - [Hardware](#hardware).
 
 
@@ -86,6 +87,18 @@ Akida NPU developers.
 
 - [brainchip.com](https://brainchip.com/) - Official site.
 
+
+### Open Neuromorphic
+
+Neuromorphic Computing and Engineering Community provides:
+
+- Educational content to get you started with the neuromorphic engineering.
+- Events about neuromorphic research and software, with contributions from both academia and industry.
+- A curated list of neuromorphc open source software and hardware to make it easier to find the tool you need.
+- A platform for your code. If you wish to create a new repository or migrate your existing code to ONM, please get in touch with us.
+
+- [open-neuromorphic.org](https://open-neuromorphic.org/) - Oficcial site.
+ 
 
 ### SynSense
 
