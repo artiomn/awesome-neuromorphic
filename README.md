@@ -36,8 +36,8 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [PeleNet](https://github.com/sagacitysite/pelenet) - Reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
 - [PySNN](https://github.com/BasBuller/PySNN) - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
-- [Rockpool](https://rockpool.ai/) - Rockpool is designed to let you design, simulate, train and test dynamical neural networks, which include explicit temporal dynamics and simulation of time. Rockpool created by SynSense (see below) and supports SynSense neuromorphic hardware.
-- [Sinabs](https://www.synsense.ai/products/sinabs/) - Open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks.
+- [Rockpool](https://rockpool.ai/) - Rockpool is designed to let you design, simulate, train and test dynamical neural networks, which include explicit temporal dynamics and simulation of time. Rockpool created by SynSense (see below) and supports SynSense neuromorphic hardware. Rockpool allows to build networks, simulate, train, test, and deploy them in simulation or event-driven neuromorphic compute hardware. Rockpool provides layers with many simulation backends, including Brian2, NEST, Torch, JAX, Numba, and raw NumPy. It is not designed for detailed simulation of biological networks.
+- [Sinabs](https://www.synsense.ai/products/sinabs/) - Open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks. Created by SynSense. The library implements several layers that are spiking equivalents of CNN layers. In addition it provides support to import CNN models implemented in Keras conveniently to test their spiking equivalent implementation.
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - Spike-based artificial intelligence computing platform.
 - [spikeflow](https://github.com/colinator/spikeflow) - Spiking neural networks in tensorflow.
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
@@ -57,7 +57,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Datasets and Dataset Tools
 
-- [Tonic](https://github.com/BrainCog-X/tonic_braincog) - Tonic is a tool to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data. 
+- [Tonic](https://github.com/BrainCog-X/tonic_braincog) - Tonic is a tool created by SynSense, to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data. Tonic provides publicly available event-based vision and audio datasets and event transformations. The package is fully compatible with PyTorch Vision/Audio, giving you the flexibility you need.
 
 
 ## Computational Neuroscience Software
@@ -116,6 +116,8 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/) - Akida NPU.
 - [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU.
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
+- [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more.
+- 
 
 
 ## Footnotes
