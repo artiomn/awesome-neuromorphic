@@ -33,6 +33,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [NetPyNE](http://www.netpyne.org/) - Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological neuronal networks using the NEURON simulator.
 - [Neural Circuit Policies](https://github.com/mlech26l/ncps) - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
 - [NEURON](https://www.neuron.yale.edu/neuron/) - The NEURON simulation environment is used in laboratories and classrooms around the world for building and using computational models of neurons and networks of neurons.
+- [Norse](https://norse.github.io/norse/) - A deep learning library for spiking neural networks. Deep learning Python library used for simulating spiking neural networks that leverages PyTorch with bio-inspired neural networks. Norse is a community-driven project, encouraging community contributions and development.
 - [PeleNet](https://github.com/sagacitysite/pelenet) - Reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
 - [PySNN](https://github.com/BasBuller/PySNN) - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
