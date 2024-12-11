@@ -22,6 +22,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
+- [Brian 2](https://brian2.readthedocs.io) - Brian is a simulator for spiking neural networks. It is written in the Python programming language and is available on almost all platforms. We believe that a simulator should not only save the time of processors, but also the time of scientists. Brian is therefore designed to be easy to learn and use, highly flexible and easily extensible.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 - [Intel LAVA](https://github.com/lava-nc) - Software Framework for Neuromorphic Computing from Intel.
