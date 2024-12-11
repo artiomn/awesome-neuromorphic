@@ -100,7 +100,7 @@ Neuromorphic Computing and Engineering Community provides:
 - A curated list of neuromorphc open source software and hardware to make it easier to find the tool you need.
 - A platform for your code. If you wish to create a new repository or migrate your existing code to ONM, please get in touch with us.
 
-- [open-neuromorphic.org](https://open-neuromorphic.org/) - Oficcial site.
+- [open-neuromorphic.org](https://open-neuromorphic.org/) - Official site.
  
 
 ### SynSense
