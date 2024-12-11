@@ -36,7 +36,8 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [PeleNet](https://github.com/sagacitysite/pelenet) - Reservoir computing framework for Loihi.
 - [PyNN](https://neuralensemble.org/PyNN/) - Python package for simulator-independent specification of neuronal network models.
 - [PySNN](https://github.com/BasBuller/PySNN) - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
-- [Sinabs](https://www.synsense.ai/products/sinabs/) - Open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks (SCNNs).
+- [Rockpool](https://rockpool.ai/) - Rockpool is designed to let you design, simulate, train and test dynamical neural networks, which include explicit temporal dynamics and simulation of time. Rockpool created by SynSense (see below) and supports SynSense neuromorphic hardware.
+- [Sinabs](https://www.synsense.ai/products/sinabs/) - Open source PyTorch based library, developed to design and implement Spiking Convolutional Neural Networks.
 - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) - Spike-based artificial intelligence computing platform.
 - [spikeflow](https://github.com/colinator/spikeflow) - Spiking neural networks in tensorflow.
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
