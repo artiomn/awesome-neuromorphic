@@ -118,8 +118,8 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/) - Akida NPU.
 - [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU.
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
-- [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more.
-- 
+- [Tianjic](https://ieeexplore.ieee.org/document/8998338) - A Unified and Scalable Chip Bridging Spike-Based and Continuous Neural Computation.
+- [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more. 
 
 
 ## Footnotes
