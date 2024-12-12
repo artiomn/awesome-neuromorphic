@@ -60,6 +60,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Datasets and Dataset Tools
 
+- [AEStream](https://github.com/aestream/aestream) - sends event-based data from A to B. AEStream is both a command-line tool an a C++/Python library with built-in GPU-acceleration for use with PyTorch, and Jax. It supports reading and writing from files, event cameras, network protocols, and visualization tools.
 - [Tonic](https://github.com/BrainCog-X/tonic_braincog) - Tonic is a tool created by SynSense, to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data. Tonic provides publicly available event-based vision and audio datasets and event transformations. The package is fully compatible with PyTorch Vision/Audio, giving you the flexibility you need.
 
 
