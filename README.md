@@ -21,6 +21,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Spiking and Neuromorphic Frameworks
 
 - [Anima (AnimaLM)](https://github.com/need-singularity/anima) - Brain-inspired neural architecture implementing excitation-inhibition tension dynamics between expert groups. Models neural agonist-governor balance in transformers. Part of the TECS-L consciousness framework.
+- [Arbor](https://arbor-sim.org/) - multi-compartment neuron simulation library; compatible with next-generation accelerators; best-practices applied to research software; focussed on community-driven development.
 - [Auryn](https://github.com/fzenke/auryn) - Simulator for recurrent spiking neural networks with synaptic plasticity.
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality.
 - [BrainCog](https://github.com/BrainCog-X/Brain-Cog) - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation.
