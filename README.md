@@ -15,6 +15,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
   - [Brainchip](#brainchip).
   - [SynSense](#synsense).
   - [Open Neuromorphic](#open-neuromorphic).
+  - [Opensource Brain](https://www.opensourcebrain.org) - open data, models and code for brain research.
 - [Hardware](#hardware).
 
 
