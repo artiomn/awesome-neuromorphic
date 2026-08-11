@@ -7,6 +7,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [Spiking and Neuromorphic Frameworks](#spiking-and-neuromorphic-frameworks)
 - [ANN2SNN Converters](#ann2snn-converters)
 - [Robotic Toolkits](#robotic-toolkits)
+- [Formats](#formats)
 - [Datasets and Dataset Tools](#datasets-and-dataset-tools)
 - [Computational Neuroscience Software](#computational-neuroscience-software)
 - [Institutes and Groups](#institutes-and-groups)
@@ -61,6 +62,13 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 - [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - list with robotics simulation tools in Unity.
+
+
+## Formats
+
+- [NIR](https://github.com/neuromorphs/NIR/) - set of computational primitives, shared across different neuromorphic frameworks and technology stacks. Currently supported by 9 simulators and 5 hardware platforms, allowing users to seamlessly move between any of these platforms. Reference implementation was written in Python, can save network structure (also supports layers) and events activity.
+- [SONATA](https://github.com/alleninstitute/sonata) - Scalable Open Data Format for multiscale neuronal network models and simulation output, jointly developed by the Allen Institute for Brain Science (AIBS) and the Blue Brain Project (BBP) of the École polytechnique fédérale de Lausanne (EPFL). The design and architecture of SONATA builds on both organizations’ expertise with large-scale high-performance network simulation, visualization and analysis. JSON, CSV used for metadata, HDF5 used for data.
+
 
 
 ## Datasets and Dataset Tools
