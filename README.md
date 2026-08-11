@@ -30,7 +30,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [Brian 2](https://brian2.readthedocs.io) - Brian is a simulator for spiking neural networks. It is written in the Python programming language and is available on almost all platforms. We believe that a simulator should not only save the time of processors, but also the time of scientists. Brian is therefore designed to be easy to learn and use, highly flexible and easily extensible.
 - [CARLSim](https://github.com/UCI-CARL/CARLsim6) - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
 - [GeNN](https://github.com/genn-team/genn) - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
-- [Intel LAVA](https://github.com/lava-nc) - Software Framework for Neuromorphic Computing from Intel.
+- [Intel LAVA](https://github.com/lava-nc) - Software Framework for Neuromorphic Computing from Intel. All Lava repositories are archived. Intel doesn't support it now.
 - [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
 - [Moose](https://moose.ncbs.res.in/) -  Multiscale Object-Oriented Simulation Environment. It is designed to simulate neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, circuits, and large networks.
 - [Nengo](https://www.nengo.ai/) - Python package for building, testing, and deploying spiking neural networks.
@@ -127,11 +127,15 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Hardware
 
-- [Motiv AltAI](https://motivnt.ru/neurochip-altai/) - AltAI NPU description page.
+- [Motiv AltAI](https://motivnt.ru/neurochip-altai/) - AltAI NPU description page. Kaspersky Neuromorphic Platform works with AltAI.
 - [Asprinity AML100](https://www.aspinity.com/aml100) - Analog machine learning chips for the lowest always-on system power.
 - [End-to-End Implementation of Various Hybrid Neural Networks on a Cross-Paradigm Neuromorphic Chip](https://www.researchgate.net/publication/348962820) - Paper.
 - [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/) - Akida NPU.
-- [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU.
+- [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU:
+  * NxSDK - Intel SDK for Loihi.
+  * [Nengo Loihi](https://www.nengo.ai/nengo-loihi/overview.html) - NxSDK-based module for Nengo.
+  * [Brian2Loihi](https://github.com/sagacitysite/brian2_loihi/) - Brian2-based Loihi simulator. The neuron and synapse model results in an exact match to Loihi, the pre- and post-synaptic traces have very small variations from the Loihi chip due to stochastic rounding.
+  * [INRC Ecosystem](https://github.com/intel-nrc-ecosystem/models) - models, modules, algorithms and applications developed by the INRC Community using nxsdk to run on the Intel Loihi Platform. Archived. Not supported by Intel now.
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
 - [Tianjic](https://ieeexplore.ieee.org/document/8998338) - A Unified and Scalable Chip Bridging Spike-Based and Continuous Neural Computation.
 - [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more. 
