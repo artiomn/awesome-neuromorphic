@@ -67,6 +67,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Formats
 
 - [NIR](https://github.com/neuromorphs/NIR/) - set of computational primitives, shared across different neuromorphic frameworks and technology stacks. Currently supported by 9 simulators and 5 hardware platforms, allowing users to seamlessly move between any of these platforms. Reference implementation was written in Python, can save network structure (also supports layers) and events activity.
+  * [NIR visualizer](https://github.com/open-neuromorphic/nirviz) - turn NIR definitions into a nice graph, the original publication serving as a template.
 - [SONATA](https://github.com/alleninstitute/sonata) - Scalable Open Data Format for multiscale neuronal network models and simulation output, jointly developed by the Allen Institute for Brain Science (AIBS) and the Blue Brain Project (BBP) of the École polytechnique fédérale de Lausanne (EPFL). The design and architecture of SONATA builds on both organizations’ expertise with large-scale high-performance network simulation, visualization and analysis. JSON, CSV used for metadata, HDF5 used for data.
 
 
