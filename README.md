@@ -137,9 +137,10 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
   * [Nengo Loihi](https://www.nengo.ai/nengo-loihi/overview.html) - NxSDK-based module for Nengo.
   * [Brian2Loihi](https://github.com/sagacitysite/brian2_loihi/) - Brian2-based Loihi simulator. The neuron and synapse model results in an exact match to Loihi, the pre- and post-synaptic traces have very small variations from the Loihi chip due to stochastic rounding.
   * [INRC Ecosystem](https://github.com/intel-nrc-ecosystem/models) - models, modules, algorithms and applications developed by the INRC Community using nxsdk to run on the Intel Loihi Platform. Archived. Not supported by Intel now.
+- [Innatera Pulsar](https://www.innatera.com/product/) - neuromorphic microcontroller built for real-time intelligence at the sensor edge. Delivering brain-like efficiency in a milliwatt power envelope, it enables always-on, responsive devices across wearables, IoT, and industrial systems.
 - [Leaky Integrate and Fire (LIF) model implementation for FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) - FPGA example.
 - [Tianjic](https://ieeexplore.ieee.org/document/8998338) - A Unified and Scalable Chip Bridging Spike-Based and Continuous Neural Computation.
-- [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more. 
+- [Xylo](https://www.synsense.ai/products/xylo/) - SynSense's programmable neuromorphic chip, excels in low-dimensional signal processing. Combines the analog front end that can efficiently provide pre-processing functionality to input analog signals. Xylo is highly re-configurable and scalable, which supports feed-forward, recurrent and reservoir and other complex neural network structure. Seamlessly integrate Xylo with MEMS microphones, thermal sensors, pressure sensors, vibration sensors, IMUs, gyros, PPG sensors, and more.
 
 
 ## Footnotes
