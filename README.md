@@ -51,6 +51,9 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 - [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
 - [Spyx](https://spyx.readthedocs.io) - compact spiking neural network library built on top of DeepMind's Haiku package. Spyx promises the flexibility and extensibility offered by PyTorch-based SNN libraries while enabling extremely efficient training on high-performance hardware at speeds comparable to or faster than SNN frameworks that have custom CUDA implementataions.
 - [The HBP Neuromorphic Computing Platform](https://electronicvisions.github.io/hbp-sp9-guidebook/) - Part of the EBRAINS research infrastructure. The EBRAINS infrastructure is created by the Human Brain Project (HBP).
+- [HypercubeESN](https://github.com/dliptak001/HypercubeESN) - Echo State Network on a Boolean hypercube reservoir (XOR Hamming-1 connectivity, no stored adjacency, C++23 + Python). Not an SNN.
+- [HypercubeWTF](https://github.com/dliptak001/HypercubeWTF) - Same frozen hypercube reservoir aimed at static fields (synthetic-time orbit, then a thin CNN readout).
+- [HypercubeCascade](https://github.com/dliptak001/HypercubeCascade) - Etalon transit then WTF orbit on one cube, then a thin HypercubeCNN readout.
 
 
 ## ANN2SNN Converters
