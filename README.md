@@ -22,6 +22,8 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Spiking and Neuromorphic Frameworks
 
+- [Mandelbrot Fractal Neural Synthesis & WERR](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) - Zero-memory procedural parameter derivation and deterministic sub-2ms System-1 decision kernel derived from non-linear dynamical boundaries, bypassing static float weight matrices.
+
 - [Anima (AnimaLM)](https://github.com/need-singularity/anima) - Brain-inspired neural architecture implementing excitation-inhibition tension dynamics between expert groups. Models neural agonist-governor balance in transformers. Part of the TECS-L consciousness framework.
 - [Arbor](https://arbor-sim.org/) - multi-compartment neuron simulation library; compatible with next-generation accelerators; best-practices applied to research software; focussed on community-driven development.
 - [Auryn](https://github.com/fzenke/auryn) - Simulator for recurrent spiking neural networks with synaptic plasticity.
