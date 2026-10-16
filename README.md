@@ -96,7 +96,7 @@ AltAI NPU developers.
 
 Team, based at the Institut de la Vision in Paris.
 
-- [www.neuromorphic-vision.com](https://www.neuromorphic-vision.com/) - Official site.
+- [BrainChip Sequora: neuromorphic generative AI on a battery](https://calder-brief.pages.dev/brainchip-sequora-neuromorphic-generative-ai-edge-october-2026.html) - Recent coverage of neuromorphic computing.
 - [GitHub repository](https://github.com/neuromorphic-paris) - Projects code.
 
 
